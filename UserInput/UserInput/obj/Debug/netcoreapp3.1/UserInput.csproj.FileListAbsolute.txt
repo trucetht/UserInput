@@ -1,0 +1,12 @@
+/Users/trevor/Projects/UserInput/UserInput/bin/Debug/netcoreapp3.1/UserInput.deps.json
+/Users/trevor/Projects/UserInput/UserInput/bin/Debug/netcoreapp3.1/UserInput.runtimeconfig.json
+/Users/trevor/Projects/UserInput/UserInput/bin/Debug/netcoreapp3.1/UserInput.runtimeconfig.dev.json
+/Users/trevor/Projects/UserInput/UserInput/bin/Debug/netcoreapp3.1/UserInput.dll
+/Users/trevor/Projects/UserInput/UserInput/bin/Debug/netcoreapp3.1/UserInput.pdb
+/Users/trevor/Projects/UserInput/UserInput/obj/Debug/netcoreapp3.1/UserInput.csprojAssemblyReference.cache
+/Users/trevor/Projects/UserInput/UserInput/obj/Debug/netcoreapp3.1/UserInput.AssemblyInfoInputs.cache
+/Users/trevor/Projects/UserInput/UserInput/obj/Debug/netcoreapp3.1/UserInput.AssemblyInfo.cs
+/Users/trevor/Projects/UserInput/UserInput/obj/Debug/netcoreapp3.1/UserInput.csproj.CoreCompileInputs.cache
+/Users/trevor/Projects/UserInput/UserInput/obj/Debug/netcoreapp3.1/UserInput.dll
+/Users/trevor/Projects/UserInput/UserInput/obj/Debug/netcoreapp3.1/UserInput.pdb
+/Users/trevor/Projects/UserInput/UserInput/obj/Debug/netcoreapp3.1/UserInput.genruntimeconfig.cache
